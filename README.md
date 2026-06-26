@@ -1,23 +1,54 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=arthurmeelo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats">
 
-<p align="left"> 
-  Olá, me chamo Arthur Melo e atualmente atuo na área de <strong>Software/Java</strong>.<br>
+### Olá! 👋
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=ARTHURMEELO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Overview">
+
+<p>
+  Desenvolvedor focado em criar soluções práticas, modernas e eficientes.<br/>
+  Trabalho com desenvolvimento de sistemas, automações e aplicações para negócios.
 </p>
 
-<p align="left">
-  Ferramentas
-</p>
+## Sobre mim
 
-![Intellij IDEA Community](https://img.shields.io/badge/-Intellij%20IDEA%20Community-333333?style=flat&logo=Intellij%20IDEA%20Community&logoColor=007396)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007396)
+- 🚀 Desenvolvendo soluções que ajudam empresas no dia a dia.
+- 💻 Focado em sistemas web, APIs, automações e ferramentas digitais.
+- 🧠 Sempre aprendendo novas tecnologias e melhorando meus projetos.
+- 🛠️ Interesse em produtos digitais, SaaS e sistemas para gestão.
 
-<p align="left"> 
-  Linguagens 
-</p>
+## Minhas Skills
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+**Aplicações e dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+**DevOps e ferramentas**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## Estatísticas
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeelo&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4" />
+
+## Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-arthurmb3544@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmb3544@gmail.com)](mailto:arthurmb3544@gmail.com)
