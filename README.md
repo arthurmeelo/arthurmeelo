@@ -1,54 +1,70 @@
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=arthurmeelo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats">
+<div align="center">
 
-### Olá! 👋
+<h1>Olá, eu sou Arthur Melo ☕</h1>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ARTHURMEELO&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Overview">
+Desenvolvedor focado em transformar ideias em **sistemas, automações e aplicações úteis para negócios**.
 
-<p>
-  Desenvolvedor focado em criar soluções práticas, modernas e eficientes.<br/>
-  Trabalho com desenvolvimento de sistemas, automações e aplicações para negócios.
-</p>
+![Soluções práticas](https://img.shields.io/badge/soluções-práticas-F6D6D6?style=flat-square&labelColor=F6D6D6&color=F6D6D6)
+![Experiências modernas](https://img.shields.io/badge/experiências-modernas-DCD6F7?style=flat-square&labelColor=DCD6F7&color=DCD6F7)
+![Produtos digitais](https://img.shields.io/badge/produtos-digitais-CDE8D1?style=flat-square&labelColor=CDE8D1&color=CDE8D1)
 
-## Sobre mim
+</div>
 
-- 🚀 Desenvolvendo soluções que ajudam empresas no dia a dia.
-- 💻 Focado em sistemas web, APIs, automações e ferramentas digitais.
-- 🧠 Sempre aprendendo novas tecnologias e melhorando meus projetos.
-- 🛠️ Interesse em produtos digitais, SaaS e sistemas para gestão.
+## Um pouco sobre mim
 
-## Minhas Skills
+```text
+☁️  Criando soluções que facilitam o dia a dia de empresas
+🌱  Aprendendo, experimentando e evoluindo a cada projeto
+🧩  Interessado em produtos digitais, SaaS e sistemas de gestão
+```
 
-**Aplicações e dados**
+Meu trabalho passa por aplicações web, APIs, automações e ferramentas digitais — sempre buscando unir uma experiência agradável a uma solução eficiente.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+## Tecnologias que fazem parte da minha rotina
 
-**Utilidades**
+<div align="center">
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+<h3>Aplicações &amp; dados</h3>
 
-**DevOps e ferramentas**
+![JavaScript](https://img.shields.io/badge/JavaScript-F6D6D6?style=for-the-badge&logo=javascript&logoColor=5C4B51)
+![TypeScript](https://img.shields.io/badge/TypeScript-D6E5FA?style=for-the-badge&logo=typescript&logoColor=5C4B51)
+![Node.js](https://img.shields.io/badge/Node.js-CDE8D1?style=for-the-badge&logo=node.js&logoColor=5C4B51)
+![React](https://img.shields.io/badge/React-D8EAF0?style=for-the-badge&logo=react&logoColor=5C4B51)
+![Next.js](https://img.shields.io/badge/Next.js-E8DFF5?style=for-the-badge&logo=next.js&logoColor=5C4B51)
+![HTML5](https://img.shields.io/badge/HTML5-F8DFD4?style=for-the-badge&logo=html5&logoColor=5C4B51)
+![CSS3](https://img.shields.io/badge/CSS3-D6E5FA?style=for-the-badge&logo=css3&logoColor=5C4B51)
+![MySQL](https://img.shields.io/badge/MySQL-F9E2AF?style=for-the-badge&logo=mysql&logoColor=5C4B51)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D8EAF0?style=for-the-badge&logo=postgresql&logoColor=5C4B51)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<h3>Design &amp; desenvolvimento</h3>
 
-## Estatísticas
+![Figma](https://img.shields.io/badge/Figma-F6D6D6?style=for-the-badge&logo=figma&logoColor=5C4B51)
+![Postman](https://img.shields.io/badge/Postman-F8DFD4?style=for-the-badge&logo=postman&logoColor=5C4B51)
+![Insomnia](https://img.shields.io/badge/Insomnia-E8DFF5?style=for-the-badge&logo=insomnia&logoColor=5C4B51)
+![Git](https://img.shields.io/badge/Git-F9E2AF?style=for-the-badge&logo=git&logoColor=5C4B51)
+![GitHub](https://img.shields.io/badge/GitHub-DCD6F7?style=for-the-badge&logo=github&logoColor=5C4B51)
+![Docker](https://img.shields.io/badge/Docker-D6E5FA?style=for-the-badge&logo=docker&logoColor=5C4B51)
+![VS Code](https://img.shields.io/badge/VS_Code-CDE8D1?style=for-the-badge&logo=visual-studio-code&logoColor=5C4B51)
 
-<br/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeelo&layout=compact&title_color=783c00&text_color=af552e&bg_color=f8efd4" />
+## GitHub em números
 
-## Onde me encontrar
+<div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-arthurmb3544@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmb3544@gmail.com)](mailto:arthurmb3544@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurmeelo&amp;show_icons=true&amp;title_color=8C6677&amp;text_color=5C4B51&amp;icon_color=B88495&amp;bg_color=FFF8F2&amp;border_color=E8CFCB" alt="Estatísticas do GitHub de Arthur Melo" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeelo&amp;layout=compact&amp;title_color=8C6677&amp;text_color=5C4B51&amp;bg_color=FFF8F2&amp;border_color=E8CFCB" alt="Linguagens mais usadas por Arthur Melo no GitHub" />
+
+</div>
+
+## Vamos conversar?
+
+<div align="center">
+
+Se quiser trocar ideias sobre tecnologia, projetos ou produtos digitais, me envie um e-mail.
+
+[![Enviar e-mail](https://img.shields.io/badge/Enviar_e--mail-F6D6D6?style=for-the-badge&logo=gmail&logoColor=5C4B51)](mailto:arthurmb3544@gmail.com)
+
+<sub>Feito com café, curiosidade e uma paleta bem tranquila.</sub>
+
+</div>
