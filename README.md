@@ -3,7 +3,7 @@
 
   <h1>Arthur Melo</h1>
 
-  <samp>Java · TypeScript · servidores Minecraft · bots Discord</samp>
+  <samp>Java · Spring Boot · TypeScript · sistemas backend</samp>
 </div>
 
 <br />
@@ -12,15 +12,15 @@ Desenvolvedor backend, entusiasta de Java. Gosto de construir coisas, entender c
 
 ## No que eu trabalho
 
-### Sistemas para Minecraft
+### Sistemas web
 
-Grande parte dos meus projetos em Java está ligada a servidores Minecraft. Tenho código para contas e permissões, inventários, NPCs, minigames e comunicação entre servidores. Nesses projetos, uso MongoDB para persistência, Redis para comunicação e Gradle para organizar os módulos e builds.
+Tenho trabalhado em CRMs e sistemas de gestão com backend em Java, Node.js e TypeScript. Entre eles estão um CRM multi-franquia, uma plataforma de atendimento por WhatsApp e um sistema para oficinas. Esses projetos envolvem autenticação, dashboards, integrações, tarefas agendadas, filas e comunicação em tempo real.
 
-### Ferramentas para bots Discord
+### Servidores Minecraft e Discord
 
-Também desenvolvo ferramentas para bots Discord. Meu principal projeto nessa área é um framework em TypeScript que cuida da inicialização, do registro de comandos e eventos, da injeção de dependência e do carregamento automático de módulos.
+Também trabalho com servidores Minecraft e bots Discord. Na parte de Minecraft, tenho projetos com minigames, contas, permissões, inventários e comunicação entre servidores. Para Discord, desenvolvi bots e um framework em TypeScript com comandos, eventos, injeção de dependência e carregamento automático de módulos.
 
-## Projetos
+## Projetos públicos
 
 > ### [Discord Advanced Framework](https://github.com/arthurmeelo/Discord-Advanced-Framework)
 >
@@ -46,26 +46,61 @@ Também desenvolvo ferramentas para bots Discord. Meu principal projeto nessa á
 >
 > `Java 8` · `Gradle` · `MongoDB` · `Redis` · `JUnit`
 
+## Outros projetos em que trabalhei
+
+### Sistema Grow
+
+CRM multi-franquia com backend em Java 21 e Spring Boot e frontend em Next.js. O sistema tem dashboards de vendas, adimplência e retenção, gestão de usuários e franquias, biblioteca de materiais e integrações por webhook. No PostgreSQL, cada franquia trabalha em um schema próprio, com migrations gerenciadas pelo Flyway.
+
+`Java` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Next.js` · `TypeScript`
+
+### ArgOS
+
+Sistema de gestão para oficinas. Trabalhei no backend com Express e PostgreSQL e no frontend com Next.js e React. O projeto reúne ordens de serviço, clientes, veículos, orçamentos, estoque, financeiro, relatórios, cobrança e atualizações em tempo real com Socket.IO.
+
+`Node.js` · `Express` · `PostgreSQL` · `Next.js` · `React` · `Socket.IO`
+
+### CRM de atendimento
+
+Plataforma multi-tenant de atendimento por WhatsApp. O backend em NestJS organiza conversas, contatos, filas, campanhas, automações, respostas rápidas, templates e integrações. Redis e BullMQ cuidam das filas de processamento, enquanto Socket.IO mantém as conversas atualizadas no frontend Next.js.
+
+`NestJS` · `Prisma` · `Redis` · `BullMQ` · `Next.js` · `TypeScript`
+
+### Hyris Network
+
+Trabalhei no framework e nos servidores da rede. O código Java é dividido em módulos para comunicação, lobby, autenticação, BedWars, eventos e anticheat, com tarefas Gradle para montar e instalar os plugins no ambiente local. Também trabalhei no site em Laravel e em bots Discord integrados ao site.
+
+`Java 17/25` · `Gradle` · `Paper/Spigot` · `JDA` · `Laravel` · `Discord.js`
+
+### MeloPlay
+
+Base de uma plataforma para organizar grupos e partidas esportivas. O projeto usa Laravel, Inertia.js e Vue, com PostgreSQL e Redis no ambiente Docker.
+
+`Laravel` · `Vue` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker`
+
 ## Tecnologias
 
-Estas são as tecnologias e ferramentas presentes nos meus repositórios públicos:
+Estas são as tecnologias e ferramentas presentes nos projetos que analisei:
 
 | Área | Tecnologias e ferramentas |
 | --- | --- |
-| Linguagens | Java, TypeScript e JavaScript |
-| Bots e automações | Node.js, Discord.js, decorators e tarefas agendadas |
+| Linguagens | Java, TypeScript, JavaScript, PHP e Python |
+| Backend | Spring Boot, NestJS, Express, Laravel e Node.js |
+| Frontend | Next.js, React, Vue e Tailwind CSS |
+| Bots e automações | Discord.js, JDA, filas, webhooks e tarefas agendadas |
 | Servidores de jogos | Bukkit/Spigot, plugins, eventos, inventários e pacotes |
-| Dados e comunicação | MongoDB, Redis, MySQL, PostgreSQL e sockets TCP |
-| Build e qualidade | Gradle, Maven, npm, Jest, JUnit, ESLint e Prettier |
+| Dados e comunicação | PostgreSQL, MongoDB, Redis, MySQL, Prisma, Socket.IO e sockets TCP |
+| Build e qualidade | Gradle, Maven, npm, Composer, Jest, JUnit, ESLint e Prettier |
+| Infraestrutura | Docker, armazenamento S3 e migrations com Flyway |
 | Ambiente | Git, GitHub, IntelliJ IDEA e VS Code |
 
 ## Como organizo o código
 
 Nos projetos maiores, tento separar a regra de negócio dos detalhes externos. No editor de hotbar, por exemplo, o serviço usa um contrato de armazenamento em vez de depender diretamente de um banco específico. No framework de Discord, comandos e serviços são resolvidos por um container, enquanto registradores, adapters e módulos ficam separados.
 
-Também separo comandos, listeners, serviços, modelos, configuração e persistência em pacotes próprios. No projeto TypeScript, mantenho a documentação dividida por assunto e os testes junto das partes que eles cobrem.
+Nos sistemas web, organizo o backend por domínio e mantenho controllers, serviços, persistência e integrações em partes próprias. Uso migrations para mudanças no banco e testes para regras que não podem depender apenas de validação manual.
 
-## Outros projetos
+## Projetos menores
 
 - [CommunicationSystem](https://github.com/arthurmeelo/CommunicationSystem) é um estudo em Java de canais, publicação de pacotes e comunicação por sockets.
 - [Simple Calculator](https://github.com/arthurmeelo/Simple-Calculator) é uma calculadora Java com interface gráfica.
