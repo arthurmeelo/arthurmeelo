@@ -1,70 +1,98 @@
 <div align="center">
+  <img src="./assets/cozy-workspace.png" width="100%" alt="Espaço de trabalho em pixel art, com monitor, café e uma janela em uma tarde chuvosa" />
 
-<h1>Olá, eu sou Arthur Melo ☕</h1>
+  <h1>Arthur Melo</h1>
 
-Desenvolvedor focado em transformar ideias em **sistemas, automações e aplicações úteis para negócios**.
-
-![Soluções práticas](https://img.shields.io/badge/soluções-práticas-F6D6D6?style=flat-square&labelColor=F6D6D6&color=F6D6D6)
-![Experiências modernas](https://img.shields.io/badge/experiências-modernas-DCD6F7?style=flat-square&labelColor=DCD6F7&color=DCD6F7)
-![Produtos digitais](https://img.shields.io/badge/produtos-digitais-CDE8D1?style=flat-square&labelColor=CDE8D1&color=CDE8D1)
-
+  <samp>Java · TypeScript · servidores Minecraft · bots Discord</samp>
 </div>
 
-## Um pouco sobre mim
+<br />
+
+Costumo aparecer onde há mais lógica do que tela: plugins, comunicação entre serviços, ferramentas para servidores e abstrações que evitam repetir o mesmo trabalho. Este perfil é um registro dessa curiosidade — dos primeiros estudos com Java até projetos maiores, com módulos, documentação e testes.
+
+## Entre um commit e outro
+
+Aprendi programação de forma autodidata. Servidores de Minecraft e bots para Discord foram dois laboratórios recorrentes: neles encontrei persistência de dados, eventos, sockets, permissões, interfaces extensíveis e vários motivos para organizar melhor o código.
+
+Meu histórico público não segue uma linha perfeitamente reta. Há uma calculadora com interface gráfica, um estudo de comunicação por sockets, estruturas para redes de Minecraft e, mais recentemente, um framework completo em TypeScript. Gosto dessa sequência porque ela registra um aumento real de escopo: de poucos arquivos a módulos, testes e documentação própria.
 
 ```text
-☁️  Criando soluções que facilitam o dia a dia de empresas
-🌱  Aprendendo, experimentando e evoluindo a cada projeto
-🧩  Interessado em produtos digitais, SaaS e sistemas de gestão
+~/workspace
+├── frameworks para bots
+├── plugins e infraestrutura de servidores
+├── comunicação entre serviços
+└── projetos pequenos usados para aprender
 ```
 
-Meu trabalho passa por aplicações web, APIs, automações e ferramentas digitais — sempre buscando unir uma experiência agradável a uma solução eficiente.
+## O que costuma sair daqui
 
-## Tecnologias que fazem parte da minha rotina
+### Sistemas para Minecraft
 
-<div align="center">
+Meus projetos em Java vão além de comandos isolados. Eles incluem kernels compartilhados, gerenciamento de contas e permissões, inventários, NPCs, minigames e comunicação entre servidores. MongoDB aparece na persistência; Redis, na troca de informações entre instâncias; Gradle, na organização dos módulos e builds.
 
-<h3>Aplicações &amp; dados</h3>
+### Ferramentas para bots Discord
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F6D6D6?style=for-the-badge&logo=javascript&logoColor=5C4B51)
-![TypeScript](https://img.shields.io/badge/TypeScript-D6E5FA?style=for-the-badge&logo=typescript&logoColor=5C4B51)
-![Node.js](https://img.shields.io/badge/Node.js-CDE8D1?style=for-the-badge&logo=node.js&logoColor=5C4B51)
-![React](https://img.shields.io/badge/React-D8EAF0?style=for-the-badge&logo=react&logoColor=5C4B51)
-![Next.js](https://img.shields.io/badge/Next.js-E8DFF5?style=for-the-badge&logo=next.js&logoColor=5C4B51)
-![HTML5](https://img.shields.io/badge/HTML5-F8DFD4?style=for-the-badge&logo=html5&logoColor=5C4B51)
-![CSS3](https://img.shields.io/badge/CSS3-D6E5FA?style=for-the-badge&logo=css3&logoColor=5C4B51)
-![MySQL](https://img.shields.io/badge/MySQL-F9E2AF?style=for-the-badge&logo=mysql&logoColor=5C4B51)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D8EAF0?style=for-the-badge&logo=postgresql&logoColor=5C4B51)
+No ecossistema Node.js, o trabalho mais completo é um framework TypeScript para bots Discord. A ideia é concentrar inicialização, registro de comandos e eventos, injeção de dependência e carregamento automático em uma base reutilizável, deixando cada bot cuidar da sua própria regra de negócio.
 
-<h3>Design &amp; desenvolvimento</h3>
+### Estudos que viram peças reutilizáveis
 
-![Figma](https://img.shields.io/badge/Figma-F6D6D6?style=for-the-badge&logo=figma&logoColor=5C4B51)
-![Postman](https://img.shields.io/badge/Postman-F8DFD4?style=for-the-badge&logo=postman&logoColor=5C4B51)
-![Insomnia](https://img.shields.io/badge/Insomnia-E8DFF5?style=for-the-badge&logo=insomnia&logoColor=5C4B51)
-![Git](https://img.shields.io/badge/Git-F9E2AF?style=for-the-badge&logo=git&logoColor=5C4B51)
-![GitHub](https://img.shields.io/badge/GitHub-DCD6F7?style=for-the-badge&logo=github&logoColor=5C4B51)
-![Docker](https://img.shields.io/badge/Docker-D6E5FA?style=for-the-badge&logo=docker&logoColor=5C4B51)
-![VS Code](https://img.shields.io/badge/VS_Code-CDE8D1?style=for-the-badge&logo=visual-studio-code&logoColor=5C4B51)
+Alguns repositórios começam pequenos, mas investigam problemas que reaparecem nos projetos maiores: canais de comunicação sobre sockets, dispatch de pacotes, separação entre interfaces e implementações de armazenamento e componentes independentes para interface, serviço e persistência.
 
-</div>
+## Projetos que contam melhor essa história
 
-## GitHub em números
+> ### [Discord Advanced Framework](https://github.com/arthurmeelo/Discord-Advanced-Framework)
+>
+> Framework em TypeScript para estruturar bots com Discord.js. Reúne decorators para comandos, eventos e serviços, container de injeção de dependência, módulos, guards, middlewares, tarefas agendadas e carregamento automático.
+>
+> O detalhe que mais representa o projeto é o cuidado ao redor da biblioteca: há CLI para iniciar bots, documentação separada por conceitos, exemplos, testes com Jest e configuração de lint e formatação.
+>
+> `TypeScript` · `Node.js` · `Discord.js` · `Jest` · `Redis`
 
-<div align="center">
+> ### [BedWars Hotbar Editor](https://github.com/arthurmeelo/bedwars-hotbareditor)
+>
+> Plugin Java para editar e organizar a hotbar de jogadores em um servidor BedWars. O jogador mantém um layout por categorias; quando um item aparece no inventário, o plugin identifica a categoria e o move para o slot configurado.
+>
+> A persistência foi isolada por uma interface comum, com implementações para MongoDB, MySQL e PostgreSQL. A atualização da hotbar pode usar pacotes ou a atualização convencional do inventário, sem misturar essa decisão com a regra de organização.
+>
+> `Java 8` · `Gradle` · `Bukkit` · `HikariCP` · `MongoDB / SQL`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurmeelo&amp;show_icons=true&amp;title_color=8C6677&amp;text_color=5C4B51&amp;icon_color=B88495&amp;bg_color=FFF8F2&amp;border_color=E8CFCB" alt="Estatísticas do GitHub de Arthur Melo" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeelo&amp;layout=compact&amp;title_color=8C6677&amp;text_color=5C4B51&amp;bg_color=FFF8F2&amp;border_color=E8CFCB" alt="Linguagens mais usadas por Arthur Melo no GitHub" />
+> ### [Melo Network](https://github.com/arthurmeelo/melo-network)
+>
+> Base modular para uma rede de servidores Minecraft. O módulo `kernel` concentra modelos de contas, grupos, permissões, preferências e estado dos servidores, além das conexões com MongoDB e Redis.
+>
+> É um projeto importante no conjunto porque aproxima gameplay e infraestrutura: minigames e recursos voltados ao jogador convivem com sincronização entre servidores e dados compartilhados.
+>
+> `Java 8` · `Gradle` · `MongoDB` · `Redis` · `JUnit`
 
-</div>
+## A bancada de trabalho
 
-## Vamos conversar?
+Em vez de uma parede de logos, estas são as ferramentas que aparecem de fato nos repositórios públicos:
 
-<div align="center">
+| Área | Tecnologias e ferramentas |
+| --- | --- |
+| Linguagens | Java, TypeScript e JavaScript |
+| Bots e automações | Node.js, Discord.js, decorators e tarefas agendadas |
+| Servidores de jogos | Bukkit/Spigot, plugins, eventos, inventários e pacotes |
+| Dados e comunicação | MongoDB, Redis, MySQL, PostgreSQL e sockets TCP |
+| Build e qualidade | Gradle, Maven, npm, Jest, JUnit, ESLint e Prettier |
+| Ambiente | Git, GitHub, IntelliJ IDEA e VS Code |
 
-Se quiser trocar ideias sobre tecnologia, projetos ou produtos digitais, me envie um e-mail.
+## Um padrão que se repete no código
 
-[![Enviar e-mail](https://img.shields.io/badge/Enviar_e--mail-F6D6D6?style=for-the-badge&logo=gmail&logoColor=5C4B51)](mailto:arthurmb3544@gmail.com)
+Conforme os projetos cresceram, comecei a separar com mais cuidado o que é regra do domínio e o que é detalhe externo. No editor de hotbar, por exemplo, o serviço conhece um contrato de armazenamento, não um banco específico. No framework de Discord, comandos e serviços são resolvidos por um container, enquanto registradores, adapters e módulos ficam em partes próprias.
 
-<sub>Feito com café, curiosidade e uma paleta bem tranquila.</sub>
+Também costumo dividir projetos por responsabilidade — comandos, listeners, serviços, modelos, configuração e persistência aparecem em pacotes distintos. No projeto TypeScript, essa organização continua na documentação e nos testes. Não é uma arquitetura aplicada por cerimônia; é o resultado de voltar ao mesmo código e querer encontrar cada peça sem precisar reaprender o projeto inteiro.
 
-</div>
+## Projetos menores, perguntas úteis
+
+- [CommunicationSystem](https://github.com/arthurmeelo/CommunicationSystem) é um estudo em Java de canais, publicação de pacotes e comunicação por sockets.
+- [Simple Calculator](https://github.com/arthurmeelo/Simple-Calculator) registra um dos projetos iniciais: uma calculadora Java com interface gráfica.
+- [Zyntra Server](https://github.com/arthurmeelo/zyntra-server) reúne módulos de lobby, APIs para recursos de servidor, MongoDB e Redis em uma base Java para Minecraft.
+
+## Pode entrar em contato
+
+Se você quiser conversar sobre algum dos projetos, trocar uma ideia sobre bots ou entender uma decisão de implementação, o caminho mais direto é o e-mail: **[arthurmb3544@gmail.com](mailto:arthurmb3544@gmail.com)**.
+
+<p align="center">
+  <sub>Obrigado pela visita — o café fica à esquerda do teclado.</sub>
+</p>
