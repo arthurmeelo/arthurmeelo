@@ -1,5 +1,7 @@
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=arthurmeelo&title=Arthur%20Melo&subtitle=Desenvolvedor%20de%20sistemas%20web%20e%20automa%C3%A7%C3%B5es%2C%20focado%20em%20solu%C3%A7%C3%B5es%20pr%C3%A1ticas%20para&theme=dark"><img alt="arthurmeelo hero" src="https://coolreadme.xyz/api/hero-banner?user=arthurmeelo&title=Arthur%20Melo&subtitle=Desenvolvedor%20de%20sistemas%20web%20e%20automa%C3%A7%C3%B5es%2C%20focado%20em%20solu%C3%A7%C3%B5es%20pr%C3%A1ticas%20para&theme=light"></picture>
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Arthur Melo" />
+</div>
 
 <h6 align="center"> 17y  •  Brazil</h1>
 
