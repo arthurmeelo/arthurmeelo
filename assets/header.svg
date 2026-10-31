@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="674" height="170" viewBox="0 0 674 170" role="img" aria-label="Arthur Melo — Desenvolvedor de sistemas web e automações">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00aa9a"><animate attributeName="stop-color" values="#00aa9a;#07ba8e;#00aa9a" dur="9s" repeatCount="indefinite"/></stop>
+      <stop offset="55%" stop-color="#0abb80"><animate attributeName="stop-color" values="#0abb80;#069d76;#0abb80" dur="11s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#174839"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#008759"/>
+      <stop offset="100%" stop-color="#103f36"/>
+    </linearGradient>
+    <clipPath id="typing"><rect x="90" y="98" width="0" height="26"><animate attributeName="width" values="0;0;494;494" keyTimes="0;0.18;0.7;1" dur="5s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="674" height="170" fill="url(#bg)"/>
+  <path fill="url(#wave)" opacity="0.7" d="M-60 116 C80 92 185 140 330 119 S560 115 734 91 L734 190 L-60 190 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M-60 116 C80 92 185 140 330 119 S560 115 734 91 L734 190 L-60 190 Z;M-60 104 C80 139 185 96 330 121 S560 91 734 117 L734 190 L-60 190 Z;M-60 116 C80 92 185 140 330 119 S560 115 734 91 L734 190 L-60 190 Z"/>
+  </path>
+  <path fill="#087852" opacity="0.17" d="M-60 135 C100 114 220 146 370 128 S610 137 734 116 L734 190 L-60 190 Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M-60 135 C100 114 220 146 370 128 S610 137 734 116 L734 190 L-60 190 Z;M-60 130 C100 146 220 112 370 132 S610 112 734 134 L734 190 L-60 190 Z;M-60 135 C100 114 220 146 370 128 S610 137 734 116 L734 190 L-60 190 Z"/>
+  </path>
+  <text x="337" y="80" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700" fill="#e7f5ef" opacity="0">Arthur Melo
+    <animate attributeName="opacity" values="0;1" dur="1.3s" fill="freeze"/>
+  </text>
+  <text x="337" y="116" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="0.5" fill="#b5d5cb" clip-path="url(#typing)">Desenvolvedor de sistemas web e automações</text>
+</svg>
