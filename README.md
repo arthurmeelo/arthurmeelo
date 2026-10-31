@@ -1,67 +1,35 @@
-# Arthurmeelo
-
-### Backend Developer | DevOps Student
-
-```java
-Name    :: Arthur Melo
-Age     :: 17
-Country :: Brazil
-
-Focus   :: Backend Development
-Stack   :: Java • Go • Rust • TypeScript
-````
-
-Building scalable applications, designing clean architectures and  
-constantly learning new technologies.
-
----
-
-# Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,go,rust,ts,react,nodejs,docker,postgres,mysql,redis,linux,cloudflare,git,github,idea,jenkins,grafana,prometheus,gcp&perline=10"/>
-
+  <img src="./assets/header.svg" width="100%" alt="Arthur Melo" />
 </div>
 
----
+<h6 align="center"> 17y  •  Brazil</h1>
 
-# GitHub
 
-<div align="center">
+Developing robust and scalable software, crafting efficient architectures, and continuously exploring new technologies to improve my skills.
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arthurmeelo&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# Activity
+<h1 align="center">Stack & Tools</h1>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurmeelo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,docker,postgres,mysql,redis,linux,cloudflare,git,github,idea,jenkins,grafana,prometheus,gcp&perline=10"/>
 
-</div>
-
----
-
-# Tools
-
-<div align="center">
-
+\
 <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,redis,git,github,linux,bash,idea,vscode,gradle,maven"/>
 
-</div>
-
----
-
-# Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kubernetes,aws,grafana,prometheus"/>
 
 </div>
 
 ---
+
+
+
+<h1 align="center">GitHub</h1>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=arthurmeelo&theme=dark&hide_border=true&border_radius=10"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
+
